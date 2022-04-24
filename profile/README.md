@@ -2,7 +2,7 @@
 
 Scorpio makes diagrams from text files.
 
-Scorpio's main strength is annotation.  You can mark up diagrams with a lot of extra information to get a visual overview that you can dive into for more detail.
+Scorpio's main strength is annotation.  Try out some of the examples.
 
 ### How to join in
 
